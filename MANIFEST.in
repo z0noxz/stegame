@@ -1,0 +1,3 @@
+include bin/stegame
+recursive-include stegame *.py
+include README.md
